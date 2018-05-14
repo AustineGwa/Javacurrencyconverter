@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Java currency converter</string>
+    <string name="currency_mssg">Convert any currency to kenyan shilling</string>
+
+    <string-array name="currencies">
+        <item> choose your  currency </item>
+        <item>dollar</item>
+        <item>Euro</item>
+        <item>SA_rand</item>
+
+
+    </string-array>
+</resources>
